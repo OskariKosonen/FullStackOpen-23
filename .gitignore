@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editor-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Compiled files
+dist/
+out/
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+*.log*
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS-generated files
+ehthumbs.db
+Icon?
+ehthumbs_vista.db
